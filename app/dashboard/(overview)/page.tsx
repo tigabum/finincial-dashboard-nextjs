@@ -1,9 +1,9 @@
-import { fetchRevenue, fetchLatestInvoices, fetchCardData } from "../lib/data"
-import { Card } from "../ui/dashboard/cards"
-import LatestInvoices from "../ui/dashboard/latest-invoices"
-import RevenueChart from "../ui/dashboard/revenue-chart"
+import { fetchRevenue, fetchLatestInvoices, fetchCardData } from "../../lib/data"
+import { Card } from "../../ui/dashboard/cards"
+import LatestInvoices from "../../ui/dashboard/latest-invoices"
+import RevenueChart from "../../ui/dashboard/revenue-chart"
 
-import { lusitana } from "../ui/fonts"
+import { lusitana } from "../../ui/fonts"
 
 
 
